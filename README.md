@@ -33,6 +33,7 @@ infinite-bomber [Номер телефона] [Режим флуда] [Режи�
 
 В файле services.yaml можно добавлять сервисы, которые будут использоваться бомбером для флуда.
 Список переменных, которые можно использовать обозначая позицию для вписывания номера жертвы:
+
 	<num> -> 79112345678
 	<num2> -> 9112345678
 	<num3> -> 7 (911) 234-56-78
@@ -89,6 +90,7 @@ If you use the mode without a log, then the program will "eat" less operative me
 
 In the services.yaml file, you can add the services that the bomber will use for flooding.
 List of variables that can be used to indicate the position to enter the victim number:
+
 	<num> -> 79112345678
 	<num2> -> 9112345678
 	<num3> -> 7 (911) 234-56-78
